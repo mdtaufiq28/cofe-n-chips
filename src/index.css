@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+@font-face{
+  font-family: 'raleway';
+  src:url('./src/assets/fonts/Raleway-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'edu-australia';
+  src: url('./src/assets/fonts/EduAUVICWANTPre-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'kings';
+  src: url('./src/assets/fonts/Kings-Regular.ttf');
+}
+
+
+
+body{
+  background-color: rgb(216, 45, 45);
+  font-family: edu-australia;
+  min-height:100vh;
+}
