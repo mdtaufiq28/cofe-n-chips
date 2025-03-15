@@ -4,17 +4,17 @@
 
 @font-face{
   font-family: 'raleway';
-  src:url('./src/assets/fonts/Raleway-Regular.ttf');
+  src:url('/Raleway-Regular.ttf');
 }
 
 @font-face {
   font-family: 'edu-australia';
-  src: url('./src/assets/fonts/EduAUVICWANTPre-Regular.ttf');
+  src: url('/EduAUVICWANTPre-Regular.ttf');
 }
 
 @font-face {
   font-family: 'kings';
-  src: url('./src/assets/fonts/Kings-Regular.ttf');
+  src: url('/Kings-Regular.ttf');
 }
 
 
